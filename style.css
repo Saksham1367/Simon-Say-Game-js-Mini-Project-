@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+h2{
+    color: white;
+}
+.head{
+    text-align: center;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    border: 5px black solid;
+    margin: 1rem;
+}
+.boxcontainer{
+    display: flex;
+    justify-content: center;
+}
+.box1{
+    display: flex;
+    flex-direction: column;
+}
+.box2{
+    display: flex;
+    flex-direction: column;
+}
+.red{
+    background-color: rgb(224, 96, 117);
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color:rgb(103, 234, 229);
+}
+.purple{
+    background-color: rgb(155, 155, 239) ;
+}
+.flash{
+    background-color: white;
+}
+.gameover{
+    background-color: red;
+}
