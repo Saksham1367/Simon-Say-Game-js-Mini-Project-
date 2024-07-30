@@ -26,5 +26,5 @@ Experience a classic memory challenge with this Simon Says game. Built using Jav
 3. Repeat the sequence in the correct order to progress to the next level.
 4. The game becomes progressively harder with longer sequences.
 
-##Enjoy   
+## Enjoy   
 Enjoy playing the Simon Says game!
